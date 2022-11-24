@@ -1,0 +1,5 @@
+{
+    "extractions": [
+        "{\"position\": null, \"sentence\": \"There was a statistically significant moderate, negative correlation (rs(108) = -.400, p < .001\", \"statisticType\": \"cspearman_apa\", \"record\": {\"doF\": \"108\", \"pcor\": \"-.400\", \"pval\": \".001\"}, \"aspect\": null, \"condition\": null}"
+    ]
+}

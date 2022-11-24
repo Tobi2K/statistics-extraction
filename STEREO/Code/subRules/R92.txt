@@ -1,0 +1,1 @@
+affiliative[a-zA-z\s\-]{0,10}at\s?[pP]\s?[<=]\s?(?P<pval>0?\.\d+)

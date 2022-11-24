@@ -1,0 +1,483 @@
+\([a-zA-Z]+\,\s\d{4}\)
+\([a-zA-Z]+\s\d\)
+Table\s?\d+
+SPSS\s\d{2}\.\d
+\d\,\d\-diazabicyclo
+\d+\-well
+cat\s\d+
+DH\d+B
+RPMI-\d+
+\([a-zA-Z]+\sand\s[a-zA-Z]+\,\s\d{4}\)
+\(CF\d+A\)
+\d+\sU/ml
+\[\d{3}\]
+COVID-19
+\[\d{2}\,\s\d{2}\]
+\[\d{2}\]
+\(ENA\)\-\d+
+peptide\-1
+MCP\-1
+Th\d+
+\[\d\,\s\d{2}\]
+\[\d\]
+\[\d\,\s\d\,\s\d\]
+p\d+
+Fig\.\s{1,2}\d{1,2}
+\s\d{2}\sh\s
+protein\-\d+
+Staining \d+
+Chapter\s\d+
+\d+ kHz
+\d+ MPa
+\d+-min
+\d+ log
+MS\d
+\d+ and \d+
+disease \d{4}
+GGII\.4
+19\d{2}\-19\d{2}
+20\d{2}\-20\d{2}
+20\d{2}/20\d{2}
+ORF\d
+August\s20\d{2}
+years\s19\d{2}
+Section\s\d\.\d\.\d\.
+In\s20\d{2}
+April\s20\d{2}
+\(20\d{2}\)
+Section\s\d\.\d
+section\s\d\.\d\.\d\.
+in\s19\d{2}
+over\s\d+\speople
+\d+\shours
+January\s\d{4}
+March\s\d{4}
+\d+\-day
+3D
+below \d+
+(April \d+, \d+)|(April \d+)
+\d{4}/\d+
+\(USNRC\s2016\)
+Unit\s\d
+Fig\.\s\d\s\.\d
+March\s\d{1,2}\,\s\d{4}
+in\s20\d{2}
+\d{1,2}\smonths
+\(19\d{2}\)
+\([a-zA-Z]+\s20\d{2}\s?\)
+\([a-zA-Z]+\s\d{4}\)
+\d{1,2}(\.\d{1,2})?\scm
+\[\d{1,2}\]
+\[\d\,\s\d\]
+PfSWIB\-C2
+PfSWIB\-B10
+file\s\d{1,2}
+Table\sS\d{1,2}
+FK506
+Day\s\d+
+3'UTR
+\d{1,2}\sweek(s)?
+\d{1,2}\sms
+\d{1,2}\smin
+\d{1,}\ss
+\d{1,2}\scycles
+\d%\sRBC
+CO\s?2
+herpesvirus\-1
+\d+\sppm
+\(Fig\.\s\d{1,2}\.\d{1,2}\)
+\d+ MHz
+\d+ mg
+ALDEx\d+
+ggplot\d+
+GFF\d
+PlasmoDB-\d+
+Pfalciparum\dD\d+
+\d+ °C
+\d \+ \d
+\d+ μg
+RPMI 1640
+\d+ mM
+lines \dD\d
+\d+-h
+h?BAF\d+[ab]?
+PfSIP\d+
+ApiAP\d+
+SPE\d+
+PF11_\d{4}
+PfSET\d+
+H\dK\d+me4
+\[\d{1,3}, \d{1,3}, \d{1,3}\]
+PfSir\d+[A-Za-z]
+Sir\d
+PfGCN\d+
+H\d{1,2}K\d{1,2}
+K\d{1,2}
+histone \d{1,2}
+lysine \d{1,2}
+\d{1,2}'UTR
+lysine\d{1,2}
+PfEMP\d{1,2}
+\d+ members
+protein \d+
+\d{1,2} patients
+\d{1,2}% of
+\d+-log
+VP\d
+\d+ copies
+ORF \d+
+\d+'untranslated
+\d, \d, and \d
+over \d{1,2}
+approximately \d+\.\d+ kb
+other \d
+\d+ h
+\d+ patients
+factor-\d+
+CD\d
+H\d{1,3}Y
+M\d+
+\d+ mares
+\d+ foals
+\d Quarter
+\([a-zA-Z]+ \d{4}\s?\)
+in \d+
+of \d+
+\d{1,3} vars
+log \d
+\d{1,3} var
+\d{1,2} upsB
+shield\d
+\d{1,3} kDa
+v\d+\.\d+\.\d+
+QuantStudio \d
+Shield\d
+\d+ µl
+\d+ ml
+Title \d+
+infections \d{1,3}
+December \d{4}
+coronavirus-2
+Disease \d{4} 
+\d{1,3}°C
+Tween \d+
+\d{1,3} times
+subtracting \d+\.\d+
+H\dP0\d
+\d{1,3} filter
+\d{1,2}\.\d{1,2} trypsin
+of \d+\.\d+
+\d{1,3}\.\d{1,3} mab
+ts\d{3}
+COVID-19
+[Ss]ection\s\d[\.\d]*
+the\s\d{4}
+Table  \d
+TLR\d
+mDC\d
+\(\d{3}\)
+\(\d{3}\, \d{3}\, \d{3}\)
+IL-\d{1,3}
+BATF\d{1,3}
+CLEC\dA
+XCR\d
+BDCA-\d
+\(\d{2}\)
+\(\d{3}\,\s?\d{3}\)
+Th\d{1,3}
+IRF\d{1,3}
+KLF\d{1,3}
+type-\d{1,3}
+\(\d{2}\,\s?\d{2}\,\s?\d{2}\)
+\(\d{2}\,\s?\d{2}\)
+CCR\d{1,3}
+Myd\d{1,3}
+\(\d\)
+gene \d
+Foxp\d
+Tr\d
+YKT\d{1,3}
+VAMP\d{1,3}
+syntaxin-\d{1,3}
+SNAP\d{1,3}
+\d{1,3} SNAREs?
+Munc\d{1,3}
+Sec\d{1,2}
+\[\d{3}\,\s?\d{3}\]
+Exo\d{1,3}
+\[\d{2}, \[\d{3}\]
+RAB\d
+ARHGEF\d{1,3}
+Rab\d{1,3}
+MICAL\d{1,3}
+Rab\dIP\d
+ERC\d{1,3}
+CAST\d{1,3}
+figure \d{1,2}
+Cab\d{1,3}
+Eg\d{1,3}
+ApoB\d{1,4}
+FAPP\d{1,3}
+SYT\d{1,3}
+SDC\d{1,3}
+SPCA\d{1,3}
+Syndecan-\d
+cofilin-\d{1,3}
+ATPase \d{1,3}
+APEX\d{1,3}
+CtBP\d{1,3}
+Arf\d{1,3}
+GBF\d{1,3}
+KIF\d{1,3}B
+KIF\d{1,3}A
+kinesin-\d{1,3}
+LAMP\d{1,3}
+Vps\d{1,3}
+Lamp\d{1,3}
+\[\d{1,3}\,\s?\d{1,3}\]
+Chs\d{1,3}
+Bud\d{1,3}
+Bch\d{1,3}
+PKD\d{1,3}
+ARF\d{1,3}
+PRKD\d{1,3}
+PLEKHA\d
+AP\d{1,3}
+\d{4}'s
+\d{1,4} leucines
+p\d+ protein
+ERGIC-\d{1,3}
+LMAN\d{1,3}
+\d+ inches
+withstand \d+
+\d+-inch
+\d+ for
+\d+ feet
+examinations \d{1,4}
+annually \d+
+males \d+
+queens \d+
+manufacturer \d+
+stock \d{1,3}
+www\d\.
+\d-bp [a-zA-Z]+
+\(p\d{1,3} gag\)
+\d{1,2} loci
+\d{1,4} loci
+the \d\,\d{3}\,\d{3}
+only \d{1,3}\,\d{1,3}
+lowest \d+
+after \d{4}
+Fig\.\s\d+\.\d+
+\d+\sto\s\d+
+\d{3}[\,\.-]\d{3}
+FIGURE\s\d+\.\d+
+ly\s\d+
+cases\.\d+
+the \d+
+In \d+
+reported \d+\,\d+
+Akt\d+
+\d+ were
+of >\d+
+of <\d+
+dataset \d+
+miR\d+
+TRAF\d+
+around \d+
+\d+′UTRs
+\d+′UTR
+reach \d+ \d+
+exceeding \d+
+\d+′ bias
+SHP-\d+
+\d+ methods
+\d+ because
+DENV-\d+
+ORF\d+\. \d+
+\d+\.\d+ kDa
+\d+ Prior
+\d+ Structure
+PRD\d+
+particles \d+
+2D
+\d+ The
+\d+ STIV
+reduction \d+
+\d+ Decreased
+SSO\d+
+contains \d+
+hdrC-\d+
+SO\d+
+CLUSTAL \d+\.\d+
+Advance \d+\.\d+
+1D
+cgi\) \d+
+\d+(\.\d+)? to \d+(\,\d+)?(\.\d+)?
+\d+ nl
+\d+ CapLC
+version \d(\.\d)*
+\d\.\d M [a-zA-Z]{2,5}
+\d+(\,\d+)+(\.\d+)? RPM
+OD\d+
+\d+(\,\d+)*(\.\d+)? and
+\d+(\,\d+)*(\.\d+)? fold
+Cy\d+
+\d+(\,\d+)*(\.\d+)?-cm
+\d+(\,\d+)*(\.\d+)?h
+elsewhere \d+
+\d-DE
+\d+(\,\d+)*(\.\d+)?-mM
+described \d+
+systems \d+
+SIRV\d+
+reported \d+
+3rd
+Bayle \d+ \d+
+[a-zA-Z]{4,15} \d \,
+\(T\d\)
+\d{3}-\d{4}
+T\d+
+\(BCS \d+-\d+\)
+\(fig\,\s\d{1,2}\)
+Pik\d+
+Nir\d+
+MYO\d+A
+ACBD\d+
+\d+-kinases
+The\s\d{4}
+Fig\.\s?\d{1,2}
+\d+[\s-]L
+December\s\d{1,2}
+HIV-\d+
+NS\d+A
+S\d+T
+genotype \d+
+table \d+
+\d+-[a-zA-Z]+
+[a-zA-Z]+\d+[a-zA-Z]+
+[a-zA-Z]+\d+/[a-zA-Z]+\d+
+\d+ few
+\d+-\d+
+\d+/\d+
+\d+(\,\d+)*(\.\d+)? years
+\d+(\,\d+)*(\.\d+)? dian
+from \d+(\,\d+)*(\.\d+)?
+per \d+(\,\d+)*(\.\d+)?
+and \d+(\,\d+)*(\.\d+)?
+per \d+(\,\d+)*(\.\d+)?
+\d+(\,\d+)*(\.\d+)? cases
+RV\d+
+\d+(\,\d+)*(\.\d+)?\sgramicidin
+P/L\s=\s\d+(\,\d+)*(\.\d+)?
+CH\s\d+
+\d+(\,\d+)*(\.\d+)?\skeV
+R\d+
+N\d+
+\d+′ UTR
+PK \d+
+\d+C
+increased\d+
+itself \d+\, \d+
+with \d+\,\s?\d+
+\d+(\.\d+)? ml
+day \d+(\,\d+)*(\.\d+)?
+\d = \d
+\d+/[a-zA-Z]
+covid19
+as \d+
+set \d+
+\d+′-adjacent
+Gal\d+
+\d+K
+Phe\d+
+Mutant\s?\d+\.\d+
+than \d+(,[\s\d]+)?
+G\d+
+Frame\s?\d+
+RPS\d+
+Dog \d+
+TFF\d+
+[a-zA-Z]{3,20}\d+
+D\d+
+age \d+(\,\d+)*(\.\d+)?
+NL\d+
+risk \d+(\,\d+)*(\.\d+)?
+WHO,\s?\d+\s?\d+
+km 2
+[a-zA-Z]{2}\d
+F1
+[a-zA-Z]{4,10}\s\d+(,\s\d+)*
+[a-zA-Z]{3,20}\s\d+(\,\d+)*(\.\d+)?
+DAMBE\d+ \d+
+2?2nd
+Figure\s{1,2}\d{1,2}
+\d+\s?[µkmn]g
+\d+\s?[µmc]L
+\d+\s?[mkdc]?m
+AY\d+
+DQ\d+
+Table\s?\d+\s?\.?\s?\d*
+Ag \d+
+Cd\d+
+\d+\s?±\s?\d+
+\d+(\,\d+)*(\.\d+)? x \d+ \d+
+mm \d
+TL \d+
+#\d+
+F\d+
+VN \d+
+S\d+
+\d+(\,\d+)*(\.\d+)? pg
+value \d+(\s\d+)*
+approximately \d+(\s\d+)*
+GMT\+\d+
+\([a-zA-Z]\s\d\s\)
+CRP/\d+
+\d+(\.\d+)?\s?x\s?\d+
+[+-]?\d+(\,\d+)*(\.\d+)?\s?x\s?[-+]?\d+(\,\d+)*(\.\d+)?
+\[\d+S\]
+\[\d+sS\]
+SW\d+
+\d+/ I
+TX\d+
+[a-zA-Z]{3,}\.\s?\d+(\s?,\s?\d+)*
+[fF]igure?\s\d+(\s?\.\s?\d+)*
+[a-zA-Z]{2,}'\s?\d+
+FIGURE\s?\d+(\s?\.\s?\d+)*
+[tT]able\s*\d+(\s?\.\s?\d+)*
+[a-zA-Z]{3,}\d+\.\d+
+[a-zA-Z]{3,}\s?\d+[\.\,\s\d]*[a-zA-Z]{2}
+pH\s?\d+
+g/\d+
+[a-zA-Z]{3,}\s?\d+[\.\,\s\d]*
+\d+(\,\d+)*(\.\d+)?/\s?\d+(\,\d+)*(\.\d+)?
+X\d+
+Q\d+
+\d+T
+\d+(\.\d+)?\s?-\s?\d+(\.\d+)?
+[a-zA-Z]{2,}-[a-zA-Z]\d+
+B\d+(\.\d+)?
+v\d{1,2}
+\d+(\.\d+)?\ss
+Re\s?[=<>]\s?\d+(\.\d+)?
+\d+\snM
+\d{2}/\d{2}/\d{2}
+E\d+
+L\d+
+CC\s?\d+
+\d+′-[CATG]+
+et a[l1] \d{4}
+[a-zA-Z]{3,}_\d+
+[a-zA-Z]{2}\d+(\.\d)?
+([Ff]ig\.?|[Ff]igure|[Tt]able|TABLE|FIGURE|[Ss]ection|[sS]ec\.?)\s\d+(\s?[.,]\s?\d+)?
+θ\s?\d
+(\d+(\,\d+)*(\.\d+)?\s?−)?\s?\d+(\,\d+)*(\.\d+)?\s?mg
+V\d+
+K\d+
+EC \d+
+[mM]\d+
+\d+,\s[a-zA-Z]{3,}
+[a-zA-Z]{3,},\s?\d+
+t[-−]\d
+t[−-]\d

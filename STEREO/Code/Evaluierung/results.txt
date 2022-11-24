@@ -1,0 +1,84 @@
+Eval time minimized set:
+83.34544658660889
+86.43355250358582
+83.07018780708313
+83.42577743530273
+86.1204879283905
+
+Eval time full set:
+122.80202722549438
+120.93294954299927
+121.16751432418823
+121.63159084320068
+125.60816955566406
+
+
+HCI total sentences: 222544
+
+Full set matches in first 200 papers: (8836)
+168425
+
+Minimized set matches in first 200 papers: (Fewer matches per sentence) (8839)
+118309
+
+PDF FILES
+
+ttest_apa: 200 from 200 are correct.
+cpearson_apa: 48 from 48 are correct.
+cspearman_apa: 2 from 2 are correct.
+anova_apa_no_r: 200 from 200 are correct.
+cstest_apa: 53 from 53 are correct.
+ztest_apa: 66 from 66 are correct.
+ttest: 37 from 38 are correct.
+cpearson: 73 from 76 are correct.
+cspearman: 49 from 54 are correct.
+anova: 2 from 2 are correct.
+mwutest: 184 from 200 are correct.
+cstest: 14 from 14 are correct.
+other: 109 from 200 are correct.
+R- :200 from 200 are correct.
+Uncovered: From200 uncovered sentences, 5 contain statistics 192do not contain statistics and 3 do contain a parse error
+
+
+LaTeX FILES
+
+ttest_apa: 200 from 200 are correct.
+cpearson_apa: 65 from 65 are correct.
+cspearman_apa: 1 from 1 are correct.
+anova_apa_no_r: 200 from 200 are correct.
+cstest_apa: 85 from 85 are correct.
+ztest_apa: 195 from 195 are correct.
+ttest: 69 from 69 are correct.
+cpearson: 91 from 94 are correct.
+cspearman: 57 from 64 are correct.
+mwutest: 188 from 200 are correct.
+cstest: 200 from 200 are correct.
+other: 121 from 200 are correct.
+R- :200 from 200 are correct.
+Uncovered: From200 uncovered sentences, 14 contain statistics 186do not contain statistics and 0 do contain a parse error
+
+
+CORD 19
+ttest_apa: 200 from 200 are correct.
+cpearson_apa: 113 from 113 are correct.
+cspearman_apa: 1 from 1 are correct.
+anova_apa_no_r: 200 from 200 are correct.
+mwutest_apa: 2 from 2 are correct.
+cstest_apa: 69 from 69 are correct.
+ztest_apa: 103 from 103 are correct.
+ttest: 194 from 200 are correct.
+cpearson: 197 from 200 are correct.
+cspearman: 200 from 200 are correct.
+anova: 2 from 2 are correct.
+mwutest: 189 from 200 are correct.
+cstest: 58 from 58 are correct.
+other: 197 from 200 are correct.
+R- :200 from 200 are correct.
+Uncovered: From200 uncovered sentences, 17 contain statistics 174do not contain statistics and 9 do contain a parse error
+
+
+Rerun 'other' after changing Rule 5 (\([P|p]\s?<?=?\s?\d(\.\d+)?\) ====> \([P|p]\s?[<=]+\s?\d(\.\d+)?\)
+PDF:
+other: 195 from 200 are correct.
+LaTeX:
+other: 197 from 200 are correct.

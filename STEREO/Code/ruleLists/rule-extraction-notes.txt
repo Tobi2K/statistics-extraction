@@ -1,0 +1,25 @@
+Specific rules:
+ {(ct−1, g t−1) , P̂ U i LU i ,t , gt−1 , Mt−1 } ==> {(_-1, _-1),__i( 			__i, ,  			_-1,  			_ - 1)} ===> Rule 1499
+
+(Figure <ref>-20) ===> Rule 1500
+
+
+   ṞQ̱1̱:̱ How are visual                          Paper 5420
+
+
+
+
+
+PDF rules:
+
+Human Factors in Computing Systems. dl.acm.org, 2853–2859.
+ACM, New York, NY, USA, 285–296.
+Visualization and Computer Graphics 19, 12 (2013), 2713–2722.
+Virtual Environ. 7(3), 225– 240 (1998).
+Thousand Oaks, CA, 508–510 (2007) [49]
+
+
+Psychology 6(546), 1–18 (2015)
+Linguistics 46(1), 53–93 (2020) 32
+NY, USA, 107–116.
+NY, USA, 319–320.

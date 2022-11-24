@@ -1,0 +1,6 @@
+{
+    "extractions": [
+        "{\"position\": null, \"sentence\": \"A one-way ANOVA revealed that temperature had a significant effect on Phi6 infectivity across all temperatures below 34\\u00b0C (P \\u03fd 0.0001); however, at temperatures above 34\\u00b0C, there was no effect of temperature on virus infectivity (P \\u03ed 0.1293)\", \"statisticType\": \"anova\", \"record\": {\"Fval\": null, \"pval\": null, \"r\": null, \"doF\": null}, \"aspect\": null, \"condition\": null}",
+        "{\"position\": null, \"sentence\": \"The statistical analysis has been done on a statistical confidence level of 95%, and therefore the error level is 0.05, and considering the degrees of freedom, the critical F value of the test that can be found through F distribution tables [42] , in this case, is equal to F = 1.57\", \"statisticType\": \"anova\", \"record\": {\"Fval\": null, \"pval\": \"0.05\", \"r\": null, \"doF\": null, \"fval\": \"1.57\"}, \"aspect\": null, \"condition\": null}"
+    ]
+}

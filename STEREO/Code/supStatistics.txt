@@ -1,0 +1,17 @@
+ttest_apa
+cpearson_apa
+cspearman_apa
+anova_apa
+anova_apa_no_r
+mwutest_apa
+wsrtest_apa
+cstest_apa
+ztest_apa
+ttest
+cpearson
+cspearman
+anova
+mwutest
+wsrtest
+cstest
+other

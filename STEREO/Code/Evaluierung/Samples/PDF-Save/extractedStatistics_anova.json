@@ -1,0 +1,6 @@
+{
+    "extractions": [
+        "{\"position\": null, \"sentence\": \"Time: (F(1,479.7) = 42.3, p < 0.05, \\u03b7 p2 = 0.7\", \"statisticType\": \"anova\", \"record\": {\"Fval\": null, \"pval\": \"0.05\", \"r\": null, \"doF\": \"1,479.7\", \"fval\": \"42.3\"}, \"aspect\": null, \"condition\": null}",
+        "{\"position\": null, \"sentence\": \"Previous work also showed the fast speed of Scatterplot for correlation tasks [17], [20].  Time: (F(4,0.4) = 10.4, p < 0.05, \\u03b7 p2 = 0.38\", \"statisticType\": \"anova\", \"record\": {\"Fval\": null, \"pval\": \"0.05\", \"r\": null, \"doF\": \"4,0.4\", \"fval\": \"10.4\"}, \"aspect\": null, \"condition\": null}"
+    ]
+}

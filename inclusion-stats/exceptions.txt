@@ -1,0 +1,6 @@
+Some rules had special characters (i.e. '^', '$', '?=' or '?!').
+For these rules, we had to manually check rules.
+
+For rule 871 all inclusions had to be removed.
+For rule 1110 none had to be removed.
+For rule 1299 all inclusions had to be removed.

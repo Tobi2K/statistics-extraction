@@ -1,0 +1,212 @@
+Enabling High-Accuracy Human Activity Recognition with Fine-Grained Indoor Localization Arvind Seshan Pittsburgh, PA, USA  arXiv:2108.06838v1 [cs
+Cascade and Parallel Convolutional Recurrent Neural Networks on EEG-based Intention Recognition for Brain Computer Interface Dalin Zhang,1 * Lina Yao,1 Xiang Zhang,1 Sen Wang,2 Weitong Chen,3 Robert Boots4, 5  arXiv:1708.06578v2 [cs
+A Visual Programming Paradigm for Abstract Deep Learning Model Development Srikanth Tamilselvam,† Naveen Panwar,† Shreya Khare,† Rahul Aralikatte,‡ Anush Sankaran,† Senthil Mani,† † IBM Research, ‡ University of Copenhagen  arXiv:1905.02486v2 [cs
+arXiv:2004.12016v1 [cs
+Janssen@uu.nl  arXiv:2106.02077v1 [cs
+PhyAAt: Physiology of Auditory Attention to Speech Dataset  arXiv:2005.11577v1 [cs
+Music Genre Bars Swaroop Panda, Shatarupa Thakurta Roy  arXiv:2103.00129v1 [cs
+HC] 15 Aug 2021  SUMMARY  navigation to step-counting
+HC] 10 Jun 2021  1  School of Computer Science and Engineering, The University of New South Wales, Australia 2 School of Information and Communication Technology, Griffith University, Australia 3 School of Information Technology and Electrical Engineering, The University of Queensland, Australia 4 Thoracic Medicine, Royal Brisbane and Women’s Hospital, Australia 5 Burns Trauma and Critical Care Research Centre, The University of Queensland, Australia * dalin.zhang@student.unsw.edu.au Abstract Brain-Computer Interface (BCI) is a system empowering humans to communicate with or control the outside world with exclusively brain intentions
+HC] 19 Aug 2019  ABSTRACT  Deep learning is one of the fastest growing technologies in computer science with a plethora of applications
+To appear in IEEE VIS 2019 Short Papers  Periphery Plots for Contextualizing Heterogeneous Time-Based Charts Bryce Morrow, Trevor Manz, Arlene E
+HC] 24 Apr 2020  Using Behavioral Interactions from a Mobile Device to Classify the Reader’s Prior Familiarity and Goal Conditions SUNGJIN NAM∗ , University of Michigan ZOYA BYLINSKII, Adobe Research CHRISTOPHER TENSMEYER, Adobe Research CURTIS WIGINGTON, Adobe Research RAJIV JAIN, Adobe Research TONG SUN, Adobe Research A student reads a textbook to learn a new topic; an attorney leafs through familiar legal documents
+HC] 3 Jun 2021  Sandy J
+Extensive experiments on a large scale movement intention EEG dataset (108 subjects, 3,145,160 EEG records) have demonstrated that both models achieve high accuracy near 98.3% and outperform a set of baseline methods and most recent deep learning based EEG recognition models, yielding a significant accuracy increase of 18% in the cross-subject validation scenario
+HC] 27 Feb 2021  Indian Institute of Technology Kanpur Music Genres, as a popular meta-data of music, are very useful to organize, explore or search music datasets
+HC] 23 May 2020  a  Nikesh Bajaja,b , Jesús Requena Carrióna , Francesco Bellottib Centre for Intelligent Sensing, School of Electronics Engineering and Computer Science (EECS), Queen Mary University of London, London, UK b Elios Lab, Dipartimento di Ingegneria Navale, Elettrica, Elettronica e delle Telecomunicazioni (DITEN), University of Genoa, Italy {n.bajaj, j.requena}@qmul.ac.uk, franz@elios.unige.it  A BSTRACT Auditory attention to natural speech is a complex brain process
+This, in turn, creates two sub-problems: 1) the collection of sensor data, and 2) the classification into activities
+As described in 1 , genres organize the production and consumption of cultural material(music in this case)
+Cowan  Cardiff University Cardiff, UK goulda5@cardiff.ac.uk  University College Dublin Dublin, Ireland benjamin.cowan@ucd.ie  ABSTRACT  1  Current speech agent interactions are typically user-initiated, limiting the interactions they can deliver
+With this motivation in mind, we analyzed the reading behaviors of 285 Mechanical Turk participants who read articles on mobile devices with different familiarity and reading goal conditions
+The developed models are further evaluated with a real-world BCI and achieve a recognition accuracy of 93% over five instruction intentions
+We obtain a System Usability Scale (SUS) of 90 and a NASA Task Load index (TLX) score of 21 for the proposed visual programming compared to 68 and 52, respectively, for the traditional programming methods
+In this experiment, auditory stimuli consisting of reproductions of English sentences in different auditory conditions were presented to 25 non-native participants, who were asked to transcribe the sentences
+Chung, Nils Gehlenborg, David Gotz Focus  Context  b1  c  b2  } }  } } }  Context  arXiv:1906.07637v2 [cs
+Recent research has also found its applications for healthy users, such as BCI games in entertainment industries (Ahn et al. 2014)
+Using the collected data, we built a model that can predict the reading goal condition (67.5%) significantly more accurately than a baseline model
+ACM Classification Keywords  D.1.7 PROGRAMMING TECHNIQUES (E): Visual Programming; I.2.2 ARTIFICIAL INTELLIGENCE: Automatic Programming—Program synthesis; D.2.2 SOFTWARE ENGINEERING: Design Tools and Techniques—User interfaces Author Keywords  Deep Learning, Visual Programming, drag-and-drop interface, auto programming INTRODUCTION  Deep learning (DL) is one of the most pervasive and breakthrough technologies of the previous decade [26]
+HC] 12 Aug 2019  d1  d5  Control Timeline a  Track f  e  d2  d6  d3  d7  d4  d8  Figure 1: Periphery plots used within a visualization of multi-variate climate data
+For example, the work in 2 is a visualization of a music collection according to perceptual distance
+Recent work has begun to explore within what context speech agents may be able to interrupt [9], yet we currently do not know how these interruptions should be designed, especially in contexts where this information may be urgent or time sensitive
+During the experiment, 14 channel electroencephalogram, galvanic skin response, and photoplethysmogram signals were collected from each participant
+Scalp-recording electroencephalography (EEG) is considered to be one of the most practical pathways to realize BCI systems due to its portable acquisition system and convenient implementation (Wang et Copyright © 2018, Association for the Advancement of Artificial Intelligence (www.aaai.org)
+Similar to other speech technology work [13, 16, 28], our study aims to gather insight from humanhuman interaction to inform speech technology design
+Automation has progressed significantly in various application domains such as self-driving cars [12] [13] [19], flight control systems [28], and medical diagnosis [22] [16] primarily due to the advent of deep learning technology
+The (a) control timeline includes interactive controls to define (b1 , b2 ) context and (c) the focus zone
+Similarly, the work in 3 clusters and visualizes tagged music data. 4 presents a GUI (which can be thought of as a conditioned interactive visualization system) for organization of music archives
+Our model also predicted the familiarity level (56.2%) marginally more accurately than the baseline
+All rights reserved.  al. 2014)
+The results show that using a combination of acceleration, audio, and Wi-Fi Round Trip Time localization can enable a highly accurate and easily deployable HAR system.  KEYWORDS Human Activity Recognition (HAR), Wi-Fi RTT (Round Trip Time), neural network, Root-mean-square Energy, Chroma Short-Time Fourier Transform, Spectral Centroid, Spectral Rolloff, Spectral Bandwidth, Zero Crossing Rate, Mel Frequency Cepstral Coefficients, confusion matrix, EWMA  1  INTRODUCTION  Computing devices today have little awareness of their surroundings
+According to Gartner, 80% of the data scientists will have DL in their toolkits by 2018 1
+Cowan. 2021
+Keywords Auditory attention · Physiological signals · EEG · GSR · PPG · Attention of speech · Predictive modeling · PhyAAt  1  Introduction  Auditory attention is a cognitive process of great importance that still remains poorly understood [1]
+This example includes four tracks (f), each with (d1 -d8 ) two periphery plots. (e) Annotations support quick comparisons, such as the seasonal variation between average maximum temperatures in summer months (the focus region) and the preceding and subsequent winter periods (d1 , d5 ).  A BSTRACT Patterns in temporal data can often be found across different scales, such as days, weeks, and months, making effective visualization of time-based data challenging
+The work in 5 presents a digital music player to browse music libraries and generate playlists according to user’s mood
+The added sensors have enabled a variety of popular applications ranging from GPS-based 1   Seshan Existing systems all suffer from some combination of inaccuracy, difficult deployment, and narrow range of recognized activities
+However, DL model authoring has been a skill that is currently restricted only to experts 2
+It has been attracting increasing attentions, and various research has attempted to engage EEG based BCI in real-world applications such as mind controlled wheelchairs (Wang et al. 2014), prosthetic (Bright et al. 2016) and exoskeletons (Qiu et al. 2017)
+Additional Key Words and Phrases: mobile reading, reading conditions, behavioral interactions, crowdsourcing, prediction models  1  INTRODUCTION  Readers interact with documents in distinct ways based on various levels of expertise or prior familiarity with a document’s content
+Thus, understanding attention can be important to improve the effectiveness, experience, and performance of many tasks [2]
+A particularly important addition in recent smartphones is hardware support for Wi-Fi Round Trip Time (also called Wi-Fi RTT or 802.11mc) [19], which enables indoor localization with a precision of one to two meters
+American sociological review, 73(5):697–718, 2008 1  Fabian Mörchen, Alfred Ultsch, Mario Nöcker, and Christian Stamm
+To make sense out of this kind of data, one must: (1) view data across a range of time scales (e.g., daily exercise fluctuations vs. monthly patient-reported outcomes vs. semi-annual doctor visits), (2) correlate across variables (e.g., does a change in medication correlate with changes in patient-reported outcomes?), and (3) compare across time intervals (e.g., has a patient’s current condition improved compared to historical data?)
+ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3469595.3469618  Permission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page
+The democratization of DL model development has been inhibited due to the following challenges: 1
+Prior studies have suggested ∗ This work was done when the author was at Adobe Research.  Authors’ addresses: Sungjin Nam, sjnam@umich.com, University of Michigan, , Ann Arbor, Michigan, 48103; Zoya Bylinskii, @adobe.com, Adobe Research, , , , ; Christopher Tensmeyer, tensmeye@adobe.com, Adobe Research, , Lehi, Utah, ; Curtis Wigington, @adobe.com, Adobe Research, , San Jose, California, ; Rajiv Jain, @adobe.com, Adobe Research, , , , ; Tong Sun, tsun@adobe.com, Adobe Research, , San Jose, California, Manuscript submitted to ACM  1   support features for mobile reading, including varying font sizes by reading goal [31], identifying difficult sentences that have longer dwell times [20], and highlighting the text to restore the reader’s attention and improve comprehension and engagement [15]
+Also, a typical EEG based BCI system usually has 8 to 128 signal channels resulting in limited signal resolution compared to image or video related tasks
+Auditory attention and auditory perception are closely related processes; while perception is the process of interpreting information, attention is the process by which discrete pieces of information are selected or discarded [3]
+CUI ’21, July 27–29, 2021, Bilbao (online), AA, Spain © 2021 Copyright held by the owner/author(s)
+In ISMIR, pages 396–403, 2005 2  Pascal Lehwark, Sebastian Risi, and Alfred Ultsch
+However, these techniques often focus on homogeneous types of data (e.g., scalar valued time series) or have other constraints that limit their use (see Section 2)
+Compared to other devices, such as desktop, people prefer mobile devices for particular types of reading, such as reading news articles [17]
+In Data Analysis, Machine Learning and Applications, pages 673–680
+Auditory perception is a complex brain process that involves encoding sounds into patterns of neural activity [4]
+Third, widely utilized brain intention recognition methods heavily rely on handcrafted features, requiring extensive preprocessing before making a prediction (Sun and Zhou 2014)
+More specifically, this research has three key contributions:  Keywords: Time-based data, Focus + context techniques, Health informatics, mHealth, Patient-generated health data. 1 I NTRODUCTION Temporal data is found frequently in various application domains and comes in many forms
+High Initial Learning Curve: There is a steep learning curve involved in understanding the fundamentals of deep 1 https://www.gartner.com/newsroom/id/3804363  learning and the syntax nuances of multiple deep learning authoring libraries
+ACM ISBN 978-1-4503-8998-3/21/07. https://doi.org/10.1145/3469595.3469618  INTRODUCTION  2 RELATED WORK 2.1 Interruptions and Multitasking Interruptions are a common topic of study in human-computer interaction (HCI)
+Datasets of physiological signals are available for a wide variety of applications, from paralysis [5] and epilepsy [6] studies, to applications for patients in a complete locked-in state [7, 8, 9] to emotion recognition [10, 11, 12, 13, 14] and serious games [15, 16, 17]
+Compared to paper-based media, reading on mobile devices has advantages in portability and easy access, but disadvantages in reduced readability and ease of navigation [25]
+Springer, 2008 4 Elias Pampalk
+While interrupting a task risks distraction, they may also bring benefits to productivity or facilitate a response to emergent tasks [24]
+There is a lack of intuitive systems to author DL models in an easy fashion. 2
+Our statistical analyses of user interactions during reading on mobile devices show that the different reading conditions lead to differences in touch and scroll interaction patterns (see Fig. 1)
+Some methods include signal de-noising (Heydari and Shahbakhti 2015) or feature selection steps (Yin et al. 2017) followed by final recognition model
+Widely used EEG datasets for BCI applications include motor imagery datasets [18, 19, 20]
+Islands of music: Analysis, organization, and visualization of music archives. na, 2001 5 Otmar Hilliges, Phillipp Holzer, Rene Klüber, and Andreas Butz
+There are several attention related datasets, including datasets for covert and overt visual attention [21, 22, 23] and for auditory-visual attention shift [24]
+Lack of Interaction across Libraries: Different programming libraries exist for DL implementation such as Keras3 , Tensorflow4 , PyTorch5 , Caffe6
+Section 2 provides an overview of the LEHAR system, including the system requirements and the key techniques used
+Figure 1(b1 ,c,b2 ) shows an example that has two context zones, one to each side of the focus zone
+Furthermore, even   Figure 1: EEG data acquisition and preprocessing
+We also develop machine learning models that can automatically predict the reading conditions from user interactions achieving 56% accuracy in predicting familiarity level, and 68% accuracy in predicting reading goals
+Interruptions are frequently studied in the form of notifications, which trigger task switches [22, 33], and as self-interruptions, in which task switching is self-triggered [11].   CUI ’21, July 27–29, 2021, Bilbao (online), AA, Spain  Critical to the study of interruptions is the observation of task switching between a main task (termed the primary task) and an interrupting task (termed the secondary task), with multitasking and interruptions being understood as a singular phenomenon on a continuum of time between these task switches [37]
+In International Symposium on Smart Graphics, pages 82–92
+Sections 3, 4, and 5 focus on the design of the core software components of LEHAR
+Specifically for auditory attention based on EEG signals, an auditory oddball paradigm has been presented, where the response of participants to oddball sounds inserted in streams of sinusoidal tones was analysed [25, 26].   https://phyaat.github.io  Figure 1: Experiment Design  Among the wide variety of physiological datasets available, to the best of our knowledge there is a lack of datasets designed to study auditory attention to natural speech
+When paying attention to interruptions, people tend to consider the impact of engaging in a secondary task on their primary task, balancing speed in completing tasks with avoiding errors in the primary task (known as the speed-accuracy tradeoff) [7]
+However, there is limited interoperability across these libraries that enables a model designed and trained in one specific library to be accessible and re-usable across libraries. 3
+These data vectors are then converted to 2D data meshes according to the electrode map of the BCI headset
+Springer, 2006 3   music genre bars  research
+Section 6 provides a detailed description of the results and an analysis of the data from this study
+This motivates the periphery plot design space outlined in Section 3.2
+The converted 2D meshes are finally segmented to clips using sliding window techniques. under intra-subject or binary classification scenarios, many existing works suffer poor performance near 80% accuracy
+Although such a trade-off is considered, research on interruptions during driving shows that people tend to prioritize speed as a default strategy, interrupting a primary task as quickly as possible [20], having to be told to emphasise accuracy before it is prioritized [8]
+In previous studies, familiarity with the article’s topic was considered a significant factor for the reader’s engagement level [22] and comprehension level [16]
+Sankaran et al. [25] studied the challenges faced by a DL developer by conducting a qualitative survey among 100 software engineers from varying backgrounds. 83% of the participants responded that it took them about 3 − 4 days to implement a deep learning model, given the model design and choice to use any DL library
+They encode quantities by length and are informed by neatly labelled axes and/or legends 6
+With the goal of supporting future research in the field of auditory attention, we have designed an experiment based on the dichotic listening task [27], and collected a dataset of physiological signals that include 14 channel EEG, PPG and GSR
+Discussion,  Related Work and Conclusions are presented in Sections 7, 8 and 9.  2  SYSTEM OVERVIEW  In this section, I describe the design of LEHAR
+Other studies [6, 21] have suggested that more coherent text can improve reading comprehension for readers with low prior knowledge levels, while readers with more prior knowledge understand less structured and less consistent documents better
+In recent years, deep learning’s revolutionary advances in audio and visual signals recognition have gained significant attentions (LeCun, Bengio, and Hinton 2015)
+As shown in Figure 1(f), each track contains a periphery plot for each context zone and a single focus visualization corresponding to the focus zone
+These tend to mark low-cost moments of interruption, that people are naturally good at coordinating, especially for self-interruption [2, 5, 24]
+The contributions of this initial work include presenting bar charts to represent soft music genres, using bar charts as a slider in an User Interface(UI) and proposing a potential application these genre bars in a streaming application interface.  2  Marc Streit and Nils Gehlenborg
+Interestingly, 86% of those respondents had rated themselves as highest in “programming ability"
+Section 2.1 describes the key requirements that any system designed to perform HAR must address
+Some recent deep learning based EEG classification approaches have enhanced the recognition accuracy (Bashivan et al. 2016; Tabar and Halici 2016)
+The reader’s prior knowledge can also affect how the reader consumes and interacts with the article [19]
+The dataset is available to the wider community for it to be used freely1
+In addition, the tracks are stacked vertically with boundaries between zones aligned as shown in Figures 1 and 3
+Bar charts and box plots, 2014 6  Soft Music Genres Music genres mostly are annotated according to hard clustering
+These breakpoints, although useful for tasks that can be broken down into clear discrete units, are difficult for people to identify when tasks are continuous (i.e. when tasks are not reducible into discrete units of ongoing activities that do not overlap (see [25])
+The survey also showed that more than 92% of the respondents wanted an interoperability framework to convert the code and model implemented in one library into another library
+For example, studies have used the degree program of undergraduate students to determine their familiarity with an article [16, 21]
+However, these approaches either focus on complex preprocessing, such as converting raw EEG signals to images (Bashivan et al. 2016), or neglecting the subtle spatial and temporal information contained within EEG signals
+One example of such applications is the design of the difficulty levels of a game based on the level of auditory attention [28]
+So given a set of three music genres, Jazz, Blues and Country, a song can very well belong to 50% Jazz, 25% Blues and 25% Hip-Hop
+Complex continuous tasks that may not have clear natural breakpoints are difficult to model in terms of ideal interruption moments [38] making it difficult to design interruptions for these tasks
+Any changes to the focus or context zones made through the control timeline are tightly coordinated with the tracks to support a range of interactions as described in Section 3.3.  2.1 Visual Representations of Temporal Data Time series data sets are ubiquitous and are most commonly represented as line charts
+Many existing approaches to enabling HAR in homes require significant specialized infrastructure to be added around the house [16]. • Portable
+Section 2 explains the experimental design, materials and procedures
+In particular, we build a mesh-like raw EEG signal hierarchy from 1D chain-like EEG vectors by mapping the EEG recordings with the spatial information of EEG acquisition electrodes, to align the correlations between neighbouring EEG signals and corresponding brain areas
+In the recent past, a few open source unified libraries were made available in the community such as Open Neural Network Exchange (ONNX) [10], nGraph from Intel [4], and Neural Network Exchange Format (NNEF) [8]
+Studies of taxonomies in education [4] and reading [1] suggest there is a hierarchy of comprehension goals
+Figure 1: A visual depiction of Hard and Soft music genres of two particular songs using bars
+Both the cascade and parallel models achieve high accuracy of near 98.3% for movement intention recognition, significantly outperforming the state-  of-the-art methods by near 18%
+Prior research has mainly focused on developing alternative visual encodings to convey equal information while using less space, such as horizon charts [8] and braided graphs [12]
+Section 3 describes the collected dataset, labels and file structure
+An example of such a work includes 7
+Speech interfaces have been shown to effectively support the execution of complex tasks like preparing a presentation without dangerously interfering with driving [32]
+For example, if the reader’s goal is to extract relevant information within a limited time frame, the reader might skim the article until she is satisfied with the findings [7]
+This DL-IDE aims to democratize deep learning model development for software engineers and data scientists by offering a “no-code" designing platform and reducing the learning curve. 3 https://keras.io/  2 https://www.kdnuggets.com/2018/01/  4 https://www.tensorflow.org/  democratizing-ai-deep-learning-machine-learning-dell-emc. html  6 https://caffe2.ai/  5 https://pytorch.org/   Tool Weka [17] Digits [9] Aetros [3] Fabrik [1] Tensorboard [11] Azure ML NN Console [7] Activis [20] Netron [5] Deep Cognition [2] Machine UI [6] DL-IDE (proposed)  UI Designing Limited No Yes Yes No No Yes No No Yes Yes Yes  Model Visualization Limited Yes No Yes Yes No Yes Yes Yes Yes Yes Yes  Code Available Yes No Yes Yes No No No No No No Yes Yes  Multi-library support No No No Yes No No No No No No No Yes  Training Dashboard Yes Yes Yes No Yes Yes Yes No No Yes Yes Yes  Inference API Yes No No No No No No No No Yes No Yes  Table 1: Comparison of different tools and frameworks in the literature that enables easy and quick development of deep learning models
+In order to support applications that depend on the recognition of multiple related activities, a HAR system must identify activities with an accuracy of at least 95%. • Inexpensive
+In Section 4, we analyse the correlation between attention score and auditory conditions
+We also evaluate our models on a real-world BCI system, and obtain a satisfactory accuracy of 93% on recognizing five instruction intentions with limited EEG channels
+For horizon charts, interpretability can be preserved and improved while reducing space usage by optimizing chart parameters (number of bands, height of chart) [10]
+If the reader’s goal is father to build comprehensive knowledge about a topic, she may explore   (a) Touch Features  (b) Mobile Device  (c) Scroll Features  Fig. 1
+This allows LEHAR to provide accurate predictions, 2   Enabling High-Accuracy Human Activity Recognition with Fine-Grained Indoor Localization  Figure 1: Diagram shows the location of the Google Nest devices throughout the home
+To study the effectiveness of the proposed DL-IDE, we conducted usability study among 18 intermediate and expert deep learning developers, comparing the visual method and programming method for designing deep learning models
+Visualizing music genres using a topic model. 2019 7  Bars as sliders in an UI Bar charts, as previously noted, have been and can potentially be used in a lot of different applications
+However, speech-based multitasking is more suitable for particular primary tasks, such as those that do not also involve the production of language [14]
+The colors in the graphs indicate example interactions captured from two participants (P001 and P002) that had different assigned reading goals (blue for C: contextual and orange for L: literal), but read the same (U: unfamiliar) article
+For example, both ThemeRiver [9] and RankExplorer [18] utilize stacked graphs as a base chart to display categorical partitions of multi-variate time series data, while the latter layers additional glyphs to represent changes in information density between categories and time points
+The files thus are allocated to 3 music genres in some proportions
+In Section 5, we formulate the four predictive tasks and Section 6 describes the framework to extract the features from physiological responses
+The primary aim of the user study is to verify the hypothesis that, in comparison with the traditional coding method for designing deep learning models, the visual programming [23] method is better in terms of ease-of-use, ease in adoption, and decreases the prototyping efforts
+Retraining the machine learning model to recognize new activities can be easily automated, addressing the Extendable requirement.  Figure 1 provides a pictorial view of the communication infrastructure within the home used for testing
+This reveals that our proposed models have robust capabilities to recognize diverse kinds of human intentions using different BCI systems.  The Proposed Method In this section, we describe the detailed architectures of the proposed cascade and parallel convolutional recurrent network approaches.  Converting 1D EEG Sequences to 2D EEG Meshes The overall EEG data acquisition and preprocessing flowchart of our proposed method is shown in Figure 1
+Figure 2: The Music Genre Bar  These music genre bars can be used to represent individual songs in a dataset (Figure 1) or the complete dataset
+This is explained in greater detail in Section 3.1.3
+The key research contributions can be summarized as follows:  4
+The contextual reader (P001_UC) scrolled in bursts, while the literal reader (P002_UL) used continuous scrolling by touching the screen more consistently in the bottom right region.  Table 1
+Multitasking with speech interfaces while driving has been a particularly popular area of research, with a 2017 meta-review of 43 studies of voice-recognition systems in the car noting that these systems impose some penalty on driving performance, but less so than visual-manual interfaces [39]
+The EEG electrode map in Figure 1 depicts the electrodes placement of an example BCI headset
+Section 7 demonstrates the results of the predictive tasks using the data from one subject
+Alternatively, Chronodes condenses multiple features into a single event timeline to highlight frequent event sub-sequences, where glyphs encode unique health related features [16]
+A government official reads a report on a new proposal in order to make budgeting decisions.  the article more exhaustively and try to mentally connect relevant parts together [28]
+Recent work has begun to explore the contexts in which more proactive interruption by speech interfaces may be possible [9]
+This minimizes the localization error since the measurements to widely spaced access points produces a smaller intersection of potential locations.  2.2 LEHAR Hardware Overview Given the smartphone-based design of LEHAR, the hardware consists solely of the smartphone itself and the communication infrastructure associated with it
+Typically, the raw data from EEG signal acquisition system at time index t is a one-dimensional (1D) data vector rt = [s1t , s2t , sit ... , snt ]T , where sit is the reading data of the ith electrode channel at time stamp t
+Currently, we support Tensorflow v1.4, Keras v2.1, PyTorch v0.3, and Caffe v1.0.  1
+These bars can be used to visually represent an entire genre dataset by means of an  3   music genre bars  underlying search algorithm; as in given a proportion (as displayed on the genre bar), find the songs that represent such proportion
+Moreover, it can dynamically transition between types in response to changes in data density. 2.2 Detail and Context Interfaces Exploratory analysis often requires users to interact with data at a level of detail that cannot be displayed on a single screen
+Overall, for this paper, we use four different types of reading conditions, combining familiarity and reading goals into a 2x2 framework that can cover a wide variety of reading scenarios (Table 1)
+Section 8 concludes the presented work and discusses several directions for future research
+While interactive methods such as zooming & panning offer the ability to view details otherwise hidden due to summarization, these interactions alone may obscure context and hinder interpretation due to narrow fields-of-view [4]
+The work found that, when in the  Edwards, et al.  home, opportune moments for interruption are governed by aspects such as user busyness, primary task difficulty, the extent to which the primary task is repetitive, as well as a person’s social availability and mood [9]
+Visual DL-IDE: A visual programming IDE enabling “nocode" intuitive way of designing deep learning models7 .  The main requirements for any deep learning tool to be usable can be summarized into three major categories:  2
+Since my objective was to incorporate fine-grain location, I chose a smartphone and communication infrastructure that incorporates support for some of the newest localization techniques (802.11mc, aka
+For example, by changing the length of the sub-bars the user may specify the genre proportions to be 22.3% Blues, 60% Country and 17.7% Jazz
+Wi-Fi RTT [19])
+More details about the experiment settings can be found in Section 4.1.   2.2  Using Implicit Signals to Understand Reading Behaviors  Previous studies used various methods to record behavioral signals to understand the reader’s cognitive state
+Neural Language Definition Standard (NLDS): An abstract representation capturing all the required parameters of a DL model, independent of the underlying implementation library (Tensorflow, PyTorch etc.) or language. 3
+Seminal work on mixed-initiative interactions has also outlined ways of initiating proactive interactions more generally, emphasising social norms and attributes from human-human interaction, such as appropriate levels of formality in address, should be considered in the design of proactive agents [20, 21]
+For the observation period [t, t + N ], there are (N + 1) 1D data vectors, each of which contains n elements corresponding to n electrodes of the acquisition headset
+The former employs spatial separation to partition global and detailed information (e.g., Stack Zooming [11]) while the latter combines these displays in a single continuous view (e.g., PerspectiveWall [15] or fish-eye lenses [6, 19])
+Our example (in Figure 3) demonstrates how an input of genre proportions by the user retrieves a selection of songs (a playlist) from a larger database labelled by soft music genres.  Discussion In this preliminary work, we presented the concept of music genre bars
+SignalLens utilizes focus + context with panning to enable rapid navigation of time series data, but users are unable to define the initial focus from a global overview [13]
+The main components of this experiment are shown in Figure 1
+Static Model Validation: An extensive collection of manually curated rules to automatically validate the design parameters of a deep learning model in real-time, performed on top of NLDS. 7 To abide to the double blind format of the paper, only screenshots of the system is made available
+We used a toy example of 3 music genres and demonstrated how these bars can be embedded and deployed in a streaming service platform.  4   music genre bars  5  Figure 3: The Music Genre Bar embedded as a slider inside a music streaming application
+Google maintains a list of devices that support RTT-based localization on its Android Developer Guide [13]
+From the EEG electrode map, it is observed that each electrode is physically neighboring multiple electrodes which   measures the EEG signals in a certain area of brain, while the elements of the chain-like 1D EEG data vectors are restricted to two neighbors
+For instance, attention signals, such as eye movements, have often been considered a proxy of different cognitive states [13, 14]
+Future exploration of this work would include incorporating 4 or more genres, larger genre datasets, automatic genre-labelling algorithms and novel methods for evaluation.  References Otmar Hilliges, Phillipp Holzer, Rene Klüber, and Andreas Butz
+In contrast, MultiStream [7] combines overview + detail and focus + context, linking interactive brush selections from a global overview to contextualize the focus of a fisheye distortion in a more detailed multi-resolution view
+I choose a relatively inexpensive and easy to obtain phone, the Google Pixel 4a [11]
+The entire system will be made publicly available upon the acceptance of the paper.  5
+Audio stimuli were reproduced under three different auditory conditions (N ,S, and L) and following previous studies, the attention score A for each trial was computed from a transcribed audio message, by counting the number of correctly identified words [29, 30, 31, 32]
+From this conceptualization, we convert the 1D EEG data vectors to 2D EEG data meshes according to the spatial information of the electrode distribution of the acquisition system
+Access rituals are short verbal and nonverbal behaviors people engage in at the beginning of or the end of an interaction with another person, signalling a request for or a ceding of access to that person [17]
+Mak and Willems [14] showed that different types of mental simulations during reading, such as simulating motor movements vs. perceptual recognition of the paragraph just read, are related to the duration of gaze
+For the entire duration of the experiment, three different modalities of physiological responses (R) were recorded at the sampling rate of 128Hz
+However, it focuses on views of context zones (rather than the focus) and includes a design space for various levels of contextual summarization. 2.3 Design Space for Multi-variate Time-Based Charts KronoMiner [20] presents a taxonomy for the design space of layouts for visualizing multi-variate, time-based data
+In International Symposium on Smart Graphics, pages 82–92
+I chose to use the Google Nest Wi-Fi Router and Google Nest Wi-Fi Point devices [10] for my infrastructure.  2.3 LEHAR Software Overview The overall structure of the LEHAR software is shown in Figure 2
+I describe the software that performs this task in greater detail in Section 3
+The details of the methods and materials are explained in subsequent subsections. 1  https://phyaat.github.io  2   https://phyaat.github.io  2.2  Stimuli  A total collection of 5000 audio files, each containing semantically correct English language sentence was obtained from the Tatoeba Project [33]
+System Usability Study: A user study is conducted with 18 intermediate and expert deep lear ning developers to assess, and compare the traditional programming method with the proposed visual drag-and-drop user interface
+In the context of beginning a conversation, like what occurs during a spoken interruption, people tend to use a number of common access rituals to initiate interaction [26], including verbal behaviors such as verbal salutes (e.g. “hi”), use of names or nicknames, or apologizers (e.g. “sorry” or “excuse me”)
+arXiv:1903.02446v1 [cs
+IEEE TRANSACTIONS ON AFFECTIVE COMPUTING  1  Prediction of Depression Severity Based on the Prosodic and Semantic Features with Bidirectional LSTM and Time Distributed CNN  arXiv:2202.12456v1 [cs
+arXiv:2205.09978v2 [cs
+arXiv:1707.09599v1 [cs
+Human Computation (2019) 6:1:113-146 © 2019, Huang, Azaria, Romero & Bigham
+A Case Study of First Person Aiming at Low Latency for Esports Josef Spjut  jspjut@nvidia.com NVIDIA USA  Ben Boudaoud  Joohwan Kim  bboudaoud@nvidia.com NVIDIA USA  sckim@nvidia.com NVIDIA USA  arXiv:2105.10498v1 [cs
+arXiv:2205.07333v1 [cs
+HC] 25 Feb 2022  Kaining Mao, Student Member, IEEE, Wei Zhang, Deborah Baofeng Wang, Ang Li, Rongqi Jiao, Yanhui Zhu, Bin Wu, Tiansheng Zheng, Lei Qian, Wei Lyu, Minjie Ye, and Jie Chen, Fellow, IEEE Abstract—Depression is increasingly impacting individuals both physically and psychologically worldwide
+HC] 6 Mar 2019  Gamification in Science: A Study of Requirements in the Context of Reproducible Research Sebastian S
+HC] 23 May 2022  HeadText: Exploring Hands-free Text Entry using Head Gestures by Motion Sensing on a Smart Earpiece SONGLIN XU, University of Science and Technology of China, China GUANJIE WANG, University of Science and Technology of China, China ZIYUAN FANG, University of Science and Technology of China, China GUANGWEI ZHANG, University of Science and Technology of China, China GUANGZHU SHANG, University of Science and Technology of China, China RONGDE LU, University of Science and Technology of China, China LIQUN HE, University of Science and Technology of China, China  Fig. 1
+CC-BY-3.0 ISSN: 2330-8001, DOI: 10.15346/hc.v6i1.7  InstructableCrowd: Creating IF-THEN Rules for Smartphones via Conversations with the Crowd arXiv:1909.05725v1 [cs
+HC] 30 Jul 2017  Dimensional Affect and Expression in Natural and Mediated Interaction Michael J

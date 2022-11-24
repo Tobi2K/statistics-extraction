@@ -1,0 +1,139 @@
+DIFF:  7		 Super-rule (138) matched 12 times. Sum of sub-rules (115) matches: 5
+DIFF:  20		 Super-rule (139) matched 27 times. Sum of sub-rules (95) matches: 7
+DIFF:  65		 Super-rule (140) matched 65 times. Sum of sub-rules (88) matches: 0
+DIFF:  23		 Super-rule (155) matched 23 times. Sum of sub-rules (146) matches: 0
+DIFF:  24		 Super-rule (159) matched 24 times. Sum of sub-rules (146) matches: 0
+DIFF:  1		 Super-rule (165) matched 1 times. Sum of sub-rules (50) matches: 0
+DIFF:  0		 Super-rule (173) matched 105 times. Sum of sub-rules (35, 44) matches: 105
+DIFF:  1		 Super-rule (228) matched 88 times. Sum of sub-rules (103) matches: 87
+DIFF:  3		 Super-rule (274) matched 3 times. Sum of sub-rules (45) matches: 0
+DIFF:  505		 Super-rule (301) matched 755 times. Sum of sub-rules (208, 292) matches: 250
+DIFF:  0		 Super-rule (327) matched 4 times. Sum of sub-rules (290) matches: 4
+DIFF:  -23		 Super-rule (361) matched 24 times. Sum of sub-rules (146, 155, 159) matches: 47
+DIFF:  172		 Super-rule (365) matched 250 times. Sum of sub-rules (110, 151) matches: 78
+DIFF:  26		 Super-rule (430) matched 60 times. Sum of sub-rules (92, 105, 106) matches: 34
+DIFF:  0		 Super-rule (439) matched 10 times. Sum of sub-rules (340) matches: 10
+DIFF:  12		 Super-rule (513) matched 21 times. Sum of sub-rules (34, 43, 177, 478) matches: 9
+DIFF:  28		 Super-rule (542) matched 28 times. Sum of sub-rules (113) matches: 0
+DIFF:  308		 Super-rule (607) matched 367 times. Sum of sub-rules (431) matches: 59
+DIFF:  5		 Super-rule (608) matched 24 times. Sum of sub-rules (93) matches: 19
+DIFF:  2		 Super-rule (612) matched 2 times. Sum of sub-rules (22) matches: 0
+DIFF:  5		 Super-rule (614) matched 810 times. Sum of sub-rules (103, 154, 441, 451, 464) matches: 805
+DIFF:  0		 Super-rule (671) matched 104 times. Sum of sub-rules (596) matches: 104
+DIFF:  29		 Super-rule (681) matched 834 times. Sum of sub-rules (103, 154, 441, 451, 464) matches: 805
+DIFF:  -104		 Super-rule (705) matched 241 times. Sum of sub-rules (28, 35, 44, 173) matches: 345
+DIFF:  0		 Super-rule (715) matched 32 times. Sum of sub-rules (992) matches: 32
+DIFF:  842		 Super-rule (735) matched 887 times. Sum of sub-rules (80, 90, 91, 95, 115, 116, 257, 399, 590) matches: 45
+DIFF:  175		 Super-rule (748) matched 1149 times. Sum of sub-rules (598) matches: 974
+DIFF:  0		 Super-rule (749) matched 25 times. Sum of sub-rules (747) matches: 25
+DIFF:  -59		 Super-rule (750) matched 367 times. Sum of sub-rules (431, 607) matches: 426
+DIFF:  71		 Super-rule (768) matched 71 times. Sum of sub-rules (279, 413) matches: 0
+DIFF:  5		 Super-rule (770) matched 5 times. Sum of sub-rules (719) matches: 0
+DIFF:  314		 Super-rule (771) matched 390 times. Sum of sub-rules (15, 60, 117, 261, 300, 548, 694, 734) matches: 76
+DIFF:  92		 Super-rule (773) matched 556 times. Sum of sub-rules (21, 31, 38, 41, 51, 215, 247, 338, 401, 428, 449, 459, 472, 497, 498, 508, 539, 637, 642, 662, 762) matches: 464
+DIFF:  350		 Super-rule (775) matched 350 times. Sum of sub-rules (20, 275, 341, 447, 506, 507, 732, 763, 764) matches: 0
+DIFF:  -76		 Super-rule (779) matched 390 times. Sum of sub-rules (14, 15, 60, 117, 261, 300, 548, 688, 694, 695, 734, 771) matches: 466
+DIFF:  2		 Super-rule (781) matched 175 times. Sum of sub-rules (65) matches: 173
+DIFF:  419		 Super-rule (782) matched 875 times. Sum of sub-rules (86, 87, 717) matches: 456
+DIFF:  68		 Super-rule (784) matched 68 times. Sum of sub-rules (24, 574) matches: 0
+DIFF:  194		 Super-rule (785) matched 259 times. Sum of sub-rules (88, 140) matches: 65
+DIFF:  3		 Super-rule (794) matched 3 times. Sum of sub-rules (270) matches: 0
+DIFF:  42		 Super-rule (795) matched 42 times. Sum of sub-rules (248, 279, 413, 485) matches: 0
+DIFF:  -456		 Super-rule (806) matched 875 times. Sum of sub-rules (86, 87, 717, 782) matches: 1331
+DIFF:  -68		 Super-rule (826) matched 310 times. Sum of sub-rules (28, 34, 35, 43, 44, 45, 173, 177, 274, 478, 513) matches: 378
+DIFF:  4418		 Super-rule (828) matched 5466 times. Sum of sub-rules (58, 59, 63, 114, 153, 195, 205, 207, 218, 235, 287, 290, 312, 327, 345, 354, 358, 369, 372, 373, 380, 408, 415, 419, 424, 474, 533, 545, 550, 554, 575, 577, 616, 639, 640, 647, 649, 650, 654, 656, 658, 674, 678, 685, 686, 780, 789, 790, 807, 812, 823) matches: 1048
+DIFF:  112		 Super-rule (831) matched 116 times. Sum of sub-rules (452, 461) matches: 4
+DIFF:  4		 Super-rule (832) matched 4 times. Sum of sub-rules (442, 460) matches: 0
+DIFF:  149		 Super-rule (858) matched 153 times. Sum of sub-rules (254) matches: 4
+DIFF:  0		 Super-rule (878) matched 105 times. Sum of sub-rules (868) matches: 105
+DIFF:  -104		 Super-rule (882) matched 104 times. Sum of sub-rules (596, 671) matches: 208
+DIFF:  3		 Super-rule (895) matched 625 times. Sum of sub-rules (800) matches: 622
+DIFF:  960		 Super-rule (900) matched 963 times. Sum of sub-rules (89, 242, 243, 245, 267, 268, 269, 271, 277, 278, 285, 286, 379, 385, 434, 435, 446, 448, 455, 456, 462, 463, 468, 470, 471, 473, 476, 477, 479, 481, 482, 483, 484, 486, 487, 489, 492, 493, 494, 495, 496, 500, 501, 503, 504, 509, 510, 511, 514, 515, 516, 517, 518, 519, 520, 540, 615, 627, 628, 651, 659, 699, 730, 731, 733, 844, 867, 884, 886, 897, 899) matches: 3
+DIFF:  0		 Super-rule (903) matched 1 times. Sum of sub-rules (255) matches: 1
+DIFF:  0		 Super-rule (916) matched 156 times. Sum of sub-rules (601) matches: 156
+DIFF:  0		 Super-rule (930) matched 60 times. Sum of sub-rules (318) matches: 60
+DIFF:  1397		 Super-rule (947) matched 1409 times. Sum of sub-rules (64, 311, 340, 469) matches: 12
+DIFF:  3550		 Super-rule (949) matched 3806 times. Sum of sub-rules (53, 56, 80, 90, 91, 95, 115, 116, 136, 139, 147, 150, 183, 257, 282, 283, 288, 318, 320, 396, 398, 399, 406, 467, 488, 499, 546, 558, 559, 560, 563, 586, 590, 624, 630, 635, 652, 657, 660, 693, 696, 698, 701, 752, 765, 769, 847) matches: 256
+DIFF:  366		 Super-rule (951) matched 388 times. Sum of sub-rules (85, 606, 744) matches: 22
+DIFF:  3830		 Super-rule (953) matched 5340 times. Sum of sub-rules (13, 17, 53, 56, 80, 90, 91, 95, 105, 115, 116, 136, 147, 183, 190, 257, 282, 283, 288, 313, 318, 320, 371, 383, 396, 398, 399, 406, 409, 431, 467, 488, 499, 546, 557, 558, 559, 560, 562, 563, 579, 581, 586, 590, 600, 607, 611, 624, 630, 635, 652, 657, 660, 667, 668, 693, 696, 698, 701, 740, 752, 765, 769, 797, 799, 800, 805, 853, 869, 898, 904, 909) matches: 1510
+DIFF:  0		 Super-rule (960) matched 18 times. Sum of sub-rules (10, 185, 432) matches: 18
+DIFF:  -124		 Super-rule (968) matched 837 times. Sum of sub-rules (366, 422) matches: 961
+DIFF:  1		 Super-rule (970) matched 1 times. Sum of sub-rules (237) matches: 0
+DIFF:  76		 Super-rule (975) matched 77 times. Sum of sub-rules (237, 970) matches: 1
+DIFF:  0		 Super-rule (976) matched 350 times. Sum of sub-rules (20, 275, 341, 447, 506, 507, 732, 763, 764, 775) matches: 350
+DIFF:  4999		 Super-rule (978) matched 5466 times. Sum of sub-rules (58, 59, 63, 114, 153, 195, 205, 207, 218, 235, 287, 290, 312, 327, 345, 354, 358, 369, 372, 373, 380, 408, 415, 474, 533, 545, 550, 554, 575, 577, 616, 639, 640, 649, 650, 654, 656, 658, 674, 780) matches: 467
+DIFF:  49		 Super-rule (981) matched 94 times. Sum of sub-rules (252, 405, 841) matches: 45
+DIFF:  0		 Super-rule (985) matched 17 times. Sum of sub-rules (10) matches: 17
+DIFF:  22		 Super-rule (1009) matched 46 times. Sum of sub-rules (948) matches: 24
+DIFF:  0		 Super-rule (1014) matched 215 times. Sum of sub-rules (1007) matches: 215
+DIFF:  -231		 Super-rule (1017) matched 231 times. Sum of sub-rules (31, 428) matches: 462
+DIFF:  0		 Super-rule (1055) matched 34 times. Sum of sub-rules (1050) matches: 34
+DIFF:  249		 Super-rule (1079) matched 300 times. Sum of sub-rules (714) matches: 51
+DIFF:  133		 Super-rule (1087) matched 155 times. Sum of sub-rules (85, 606, 744) matches: 22
+DIFF:  32		 Super-rule (1092) matched 35 times. Sum of sub-rules (488) matches: 3
+DIFF:  1		 Super-rule (1096) matched 19 times. Sum of sub-rules (10, 432, 769) matches: 18
+DIFF:  -39		 Super-rule (1097) matched 78 times. Sum of sub-rules (10, 47, 148, 432, 488, 595, 600, 744, 769, 969, 1095, 1096) matches: 117
+DIFF:  59		 Super-rule (1098) matched 70 times. Sum of sub-rules (1094) matches: 11
+DIFF:  -29		 Super-rule (1102) matched 3232 times. Sum of sub-rules (113, 319, 1104) matches: 3261
+DIFF:  3261		 Super-rule (1104) matched 3261 times. Sum of sub-rules (319) matches: 0
+DIFF:  110		 Super-rule (1106) matched 832 times. Sum of sub-rules (161, 974) matches: 722
+DIFF:  -5735		 Super-rule (1111) matched 6303 times. Sum of sub-rules (10, 13, 17, 53, 56, 80, 89, 90, 91, 92, 95, 105, 106, 115, 116, 136, 139, 147, 150, 183, 190, 242, 243, 245, 257, 267, 268, 269, 271, 277, 278, 282, 283, 285, 286, 288, 313, 318, 320, 371, 379, 383, 385, 396, 398, 399, 404, 406, 409, 430, 431, 434, 435, 446, 448, 455, 456, 462, 463, 467, 468, 470, 471, 473, 476, 477, 479, 481, 482, 483, 484, 486, 487, 488, 489, 492, 493, 494, 495, 496, 499, 500, 501, 503, 504, 509, 510, 511, 514, 515, 516, 517, 518, 519, 520, 540, 546, 557, 558, 559, 560, 562, 563, 566, 579, 581, 586, 590, 600, 607, 611, 615, 624, 627, 628, 630, 634, 635, 646, 651, 652, 657, 659, 660, 667, 668, 675, 693, 696, 698, 699, 701, 710, 712, 730, 731, 733, 740, 752, 765, 769, 797, 799, 800, 805, 844, 847, 848, 853, 867, 869, 884, 886, 888, 891, 894, 897, 898, 899, 900, 904, 909, 949, 953, 959, 985, 1031, 1032, 1092, 1095, 1100) matches: 12038
+DIFF:  -67		 Super-rule (1114) matched 257 times. Sum of sub-rules (88, 140, 785) matches: 324
+DIFF:  4		 Super-rule (1116) matched 6 times. Sum of sub-rules (1034) matches: 2
+DIFF:  -438		 Super-rule (1128) matched 893 times. Sum of sub-rules (86, 87, 717, 782) matches: 1331
+DIFF:  -324		 Super-rule (1130) matched 257 times. Sum of sub-rules (88, 140, 785, 1114) matches: 581
+DIFF:  6		 Super-rule (1132) matched 6 times. Sum of sub-rules (180, 181) matches: 0
+DIFF:  0		 Super-rule (1143) matched 526 times. Sum of sub-rules (206) matches: 526
+DIFF:  508		 Super-rule (1156) matched 897 times. Sum of sub-rules (126, 653, 669, 841, 885, 1119) matches: 389
+DIFF:  16		 Super-rule (1167) matched 185 times. Sum of sub-rules (1012) matches: 169
+DIFF:  0		 Super-rule (1188) matched 1 times. Sum of sub-rules (777) matches: 1
+DIFF:  -27		 Super-rule (1189) matched 111 times. Sum of sub-rules (5, 146, 155, 159, 361, 1043) matches: 138
+DIFF:  49		 Super-rule (1225) matched 94 times. Sum of sub-rules (841) matches: 45
+DIFF:  5		 Super-rule (1227) matched 20 times. Sum of sub-rules (708, 963) matches: 15
+DIFF:  -22		 Super-rule (1231) matched 155 times. Sum of sub-rules (85, 606, 744, 1087) matches: 177
+DIFF:  71		 Super-rule (1232) matched 75 times. Sum of sub-rules (488, 769) matches: 4
+DIFF:  9		 Super-rule (1237) matched 9 times. Sum of sub-rules (670) matches: 0
+DIFF:  0		 Super-rule (1240) matched 53 times. Sum of sub-rules (1239) matches: 53
+DIFF:  -12196		 Super-rule (1242) matched 6145 times. Sum of sub-rules (10, 13, 17, 53, 56, 80, 89, 90, 91, 92, 95, 105, 106, 115, 116, 136, 139, 147, 150, 183, 190, 242, 243, 245, 257, 263, 267, 268, 269, 271, 277, 278, 282, 283, 285, 286, 288, 313, 318, 320, 371, 379, 383, 385, 396, 398, 399, 404, 406, 409, 430, 431, 434, 435, 446, 448, 455, 456, 462, 463, 467, 468, 470, 471, 473, 476, 477, 479, 481, 482, 483, 484, 486, 487, 488, 489, 492, 493, 494, 495, 496, 499, 500, 501, 503, 504, 509, 510, 511, 514, 515, 516, 517, 518, 519, 520, 540, 546, 557, 558, 559, 560, 562, 563, 566, 579, 581, 586, 590, 600, 607, 611, 615, 624, 627, 628, 630, 634, 635, 646, 651, 652, 657, 659, 660, 667, 668, 675, 693, 696, 698, 699, 701, 710, 712, 730, 731, 733, 740, 752, 765, 769, 797, 799, 800, 805, 844, 847, 848, 853, 867, 869, 884, 886, 888, 891, 894, 897, 898, 899, 900, 904, 909, 949, 953, 959, 985, 1031, 1032, 1092, 1095, 1100, 1111) matches: 18341
+DIFF:  43		 Super-rule (1243) matched 56 times. Sum of sub-rules (315) matches: 13
+DIFF:  154		 Super-rule (1245) matched 167 times. Sum of sub-rules (315) matches: 13
+DIFF:  4		 Super-rule (1246) matched 4 times. Sum of sub-rules (538) matches: 0
+DIFF:  -13		 Super-rule (1252) matched 1409 times. Sum of sub-rules (42, 64, 186, 311, 340, 425, 454, 469, 490, 523, 665, 684, 687, 809, 908, 947, 982, 983, 989, 1063, 1080) matches: 1422
+DIFF:  101		 Super-rule (1261) matched 140 times. Sum of sub-rules (105, 148, 488, 595, 600, 769) matches: 39
+DIFF:  -77		 Super-rule (1263) matched 141 times. Sum of sub-rules (10, 105, 148, 477, 488, 595, 600, 744, 769, 1261) matches: 218
+DIFF:  2		 Super-rule (1281) matched 4 times. Sum of sub-rules (4, 722) matches: 2
+DIFF:  88		 Super-rule (1285) matched 100 times. Sum of sub-rules (1048, 1108) matches: 12
+DIFF:  5		 Super-rule (1289) matched 5 times. Sum of sub-rules (1058, 1059) matches: 0
+DIFF:  38		 Super-rule (1291) matched 55 times. Sum of sub-rules (161) matches: 17
+DIFF:  -103		 Super-rule (1292) matched 105 times. Sum of sub-rules (596, 671) matches: 208
+DIFF:  28		 Super-rule (1308) matched 35 times. Sum of sub-rules (1150) matches: 7
+DIFF:  0		 Super-rule (1309) matched 4 times. Sum of sub-rules (280) matches: 4
+DIFF:  10		 Super-rule (1317) matched 35 times. Sum of sub-rules (342) matches: 25
+DIFF:  1985		 Super-rule (1318) matched 3849 times. Sum of sub-rules (46, 280, 342, 718, 833, 834, 893, 901, 948, 1009, 1012, 1117, 1118, 1138, 1157, 1165, 1298, 1309, 1317) matches: 1864
+DIFF:  4706		 Super-rule (1322) matched 6348 times. Sum of sub-rules (10, 17, 53, 56, 80, 89, 90, 91, 95, 115, 116, 136, 147, 183, 190, 242, 243, 245, 257, 267, 268, 269, 271, 277, 278, 282, 283, 285, 286, 288, 313, 318, 320, 371, 379, 383, 385, 396, 398, 399, 406, 431, 434, 435, 446, 448, 455, 456, 462, 463, 467, 468, 470, 471, 473, 476, 477, 479, 481, 482, 483, 484, 486, 487, 488, 489, 492, 493, 494, 495, 496, 499, 500, 501, 503, 504, 509, 510, 511, 514, 515, 516, 517, 518, 519, 520, 540, 546, 557, 558, 559, 560, 562, 563, 586, 590, 607, 615, 624, 627, 628, 630, 635, 651, 652, 657, 659, 660, 693, 696, 698, 699, 701, 730, 731, 733, 740, 752, 765, 769, 844, 867, 869, 884, 886, 894, 897, 898, 899, 900) matches: 1642
+DIFF:  -65		 Super-rule (1323) matched 259 times. Sum of sub-rules (88, 140, 785) matches: 324
+DIFF:  56		 Super-rule (1330) matched 59 times. Sum of sub-rules (34, 43, 478) matches: 3
+DIFF:  61		 Super-rule (1331) matched 97 times. Sum of sub-rules (857) matches: 36
+DIFF:  157		 Super-rule (1334) matched 306 times. Sum of sub-rules (326, 689) matches: 149
+DIFF:  -1331		 Super-rule (1337) matched 893 times. Sum of sub-rules (86, 87, 717, 782, 1128) matches: 2224
+DIFF:  90		 Super-rule (1338) matched 90 times. Sum of sub-rules (386, 387, 673, 852) matches: 0
+DIFF:  136		 Super-rule (1343) matched 154 times. Sum of sub-rules (1134, 1266) matches: 18
+DIFF:  6		 Super-rule (1344) matched 7 times. Sum of sub-rules (972) matches: 1
+DIFF:  0		 Super-rule (1345) matched 462 times. Sum of sub-rules (929, 1341) matches: 462
+DIFF:  2596		 Super-rule (1347) matched 8577 times. Sum of sub-rules (10, 13, 17, 42, 53, 56, 64, 80, 89, 90, 91, 93, 95, 105, 110, 115, 116, 136, 147, 151, 183, 186, 190, 211, 242, 243, 245, 257, 267, 268, 269, 271, 277, 278, 282, 283, 285, 286, 288, 311, 313, 318, 320, 340, 365, 366, 371, 379, 383, 385, 396, 398, 399, 406, 425, 431, 434, 435, 446, 448, 454, 455, 456, 462, 463, 467, 468, 469, 470, 471, 473, 476, 477, 479, 481, 482, 483, 484, 486, 487, 488, 489, 490, 492, 493, 494, 495, 496, 499, 500, 501, 503, 504, 509, 510, 511, 514, 515, 516, 517, 518, 519, 520, 523, 540, 546, 557, 558, 559, 560, 562, 563, 586, 590, 601, 607, 608, 615, 624, 627, 628, 630, 635, 651, 652, 657, 659, 660, 665, 684, 687, 693, 696, 698, 699, 701, 730, 731, 733, 740, 752, 765, 769, 809, 819, 838, 844, 867, 868, 869, 884, 886, 894, 897, 898, 899, 900, 908, 935, 947, 982, 983, 988, 989, 1004, 1006, 1010, 1063, 1080, 1107, 1186, 1252, 1310) matches: 5981
+DIFF:  -34		 Super-rule (1349) matched 34 times. Sum of sub-rules (1002, 1050, 1055) matches: 68
+DIFF:  -333		 Super-rule (1352) matched 772 times. Sum of sub-rules (200, 206, 1143) matches: 1105
+DIFF:  2		 Super-rule (1353) matched 8 times. Sum of sub-rules (180, 181, 1132) matches: 6
+DIFF:  0		 Super-rule (1354) matched 1 times. Sum of sub-rules (621, 623) matches: 1
+DIFF:  5		 Super-rule (1356) matched 5 times. Sum of sub-rules (237) matches: 0
+DIFF:  90		 Super-rule (1362) matched 90 times. Sum of sub-rules (386, 387, 673, 852) matches: 0
+DIFF:  5		 Super-rule (1363) matched 6 times. Sum of sub-rules (237, 970, 1020, 1290) matches: 1
+DIFF:  23		 Super-rule (1368) matched 23 times. Sum of sub-rules (85, 606) matches: 0
+DIFF:  4667		 Super-rule (1369) matched 5360 times. Sum of sub-rules (13, 17, 53, 56, 80, 90, 91, 95, 105, 115, 116, 136, 147, 183, 190, 257, 282, 283, 288, 313, 318, 320, 371, 383, 396, 398, 399, 406, 409, 431, 467, 488, 499, 546, 557, 558, 559, 560, 562, 563, 586, 590, 600, 607, 624, 630, 635, 652, 657, 660, 667, 668, 693, 696, 698, 701, 740, 752, 765, 769, 869, 898) matches: 693
+DIFF:  49		 Super-rule (1371) matched 964 times. Sum of sub-rules (1340) matches: 915
+DIFF:  -38		 Super-rule (1372) matched 141 times. Sum of sub-rules (105, 148, 488, 595, 600, 769, 1261) matches: 179
+DIFF:  26		 Super-rule (1373) matched 233 times. Sum of sub-rules (382, 1138, 1298) matches: 207
+DIFF:  -67		 Super-rule (1374) matched 332 times. Sum of sub-rules (88, 140, 785, 863, 1077) matches: 399
+DIFF:  -1279		 Super-rule (1388) matched 981 times. Sum of sub-rules (86, 87, 717, 782, 857, 1128) matches: 2260
+DIFF:  2		 Super-rule (1389) matched 807 times. Sum of sub-rules (103, 154, 441, 451, 464) matches: 805
+DIFF:  27		 Super-rule (1395) matched 30 times. Sum of sub-rules (193, 284, 314, 531) matches: 3

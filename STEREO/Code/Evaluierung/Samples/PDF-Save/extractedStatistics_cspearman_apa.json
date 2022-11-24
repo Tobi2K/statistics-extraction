@@ -1,0 +1,6 @@
+{
+    "extractions": [
+        "{\"position\": null, \"sentence\": \"However, the variation in the compression rate and the variation in the Discomfort Score were moderately correlated (rs (81) = .492, p < .001\", \"statisticType\": \"cspearman_apa\", \"record\": {\"doF\": \"81\", \"pcor\": \".492\", \"pval\": \".001\"}, \"aspect\": null, \"condition\": null}",
+        "{\"position\": null, \"sentence\": \"The absolute compression rate is weakly correlated to the absolute Discomfort Score (rs (103) = .379, p < .001\", \"statisticType\": \"cspearman_apa\", \"record\": {\"doF\": \"103\", \"pcor\": \".379\", \"pval\": \".001\"}, \"aspect\": null, \"condition\": null}"
+    ]
+}
