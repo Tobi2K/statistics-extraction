@@ -127,6 +127,4 @@ if __name__ == '__main__':
     parser.add_argument('--path', type=str, help='Location of the regex list', default='./rMinus.txt')
 
     args = parser.parse_args()
-    #main(args.begin, args.end, args.path)
-    [r1_processed, no_guarantee] = Regexer.preprocess(r'a(b|c)a*', True)
-    r1_dfa = get_complete_dfa(r1_processed, True)
+    main(args.begin, args.end, args.path)
