@@ -36,12 +36,12 @@ def activeWrapperAllPaths(directory, fileExtension):
             raise NotImplementedError("Unrecognized fileExtension!")
         print(path)
         # '$^' #Initial Rule matches nothing
-        activeWrapperLoop(sentences, rPlusList, rMinusList, toSkip)
+        activeWrapperLoop(sentences, rPlusList, rMinusList, toSkip, fileExtension)
         # finished with that document -> increment skip counter for documents
         pap.incrementSkip(True)
 
 
-def activeWrapperLoop(sentences, rPlusList, rMinusList, toSkip):
+def activeWrapperLoop(sentences, rPlusList, rMinusList, toSkip, fileExtension='.json'):
     # while senteces not empty
     foundEntitys = []
     extracted = []
@@ -76,7 +76,7 @@ def activeWrapperLoop(sentences, rPlusList, rMinusList, toSkip):
                         toSkip -= 1
                         break
                     # Start Interaction
-                    skip = gui.callGui(sentence, idn, matchList)
+                    skip = gui.callGui(sentence, idn, matchList, fileExtension)
                     # update Dictionary for current session
                     rPlusList = pap.readRules("rPlus")
                     rMinusList = pap.readRules("rMinus")

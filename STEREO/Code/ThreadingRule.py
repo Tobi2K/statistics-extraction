@@ -78,29 +78,29 @@ def thread_task(lock, rule, start, end):
 
 
 # apply rule on randomly selected 1000 rules and return the amount of matches
-def tryRule(rule):
+def tryRule(rule, fileExtension='.json'):
     t1 = time.time()
-    ps = ut.loadPaths()
+    ps = ut.loadPaths(fileExtension.replace('.', ''))
     # get AMOUNT_DOCS random selected numbers from between 1 and maximum documents in dataset and save it in a list
     docList = []
-    counter = AMOUNT_DOCS
+    counter = min([AMOUNT_DOCS, len(ps)])
     while counter > 0:
         docNumb = randint(0, len(ps) - 1)
         if docList.count(docNumb) == 0:
             docList.append(docNumb)
             counter -= 1
-
-    cpuCount = multiprocessing.cpu_count()
+    adapted_amount_docs = min([AMOUNT_DOCS, len(ps) - 1])
+    cpuCount = min([multiprocessing.cpu_count(), len(ps) - 1])
     lock = threading.Lock()
     threadList = []
     for t in range(cpuCount):
-        start = AMOUNT_DOCS // cpuCount * t
-        end = start + AMOUNT_DOCS // cpuCount
+        start = adapted_amount_docs // cpuCount * t
+        end = start + adapted_amount_docs // cpuCount
         if t == cpuCount - 1:
-            end += AMOUNT_DOCS % cpuCount
+            end += adapted_amount_docs % cpuCount
         else:
             end -= 1
-        threadList.append((lock, rule, start, end, docList, ps))
+        threadList.append((lock, rule, start, end, docList, ps, fileExtension))
 
     global count
     count = 0
@@ -122,13 +122,19 @@ def thread_tryRule(param):
     end = param[3]
     docList = param[4]
     ps = param[5]
+    fileExtension = param[6]
     global count
     print(start, end)
     docs = []  # list of sentences from chosen documents
     # load the specific papers with index numbers given in docList
     for i in range(start, end):
         index = docList[i]
-        docs = docs + pap.loadPaper(ps[index])
+        if fileExtension == '.json':
+            docs = docs + pap.loadPaper(ps[index])
+        elif fileExtension == '.pdf':
+            docs = docs + pap.loadPdf(ps[index])
+        elif fileExtension == '.tex':
+            docs = docs + pap.loadTarGz(ps[index])
     for s in docs:
         match = re.search(rule, s)
         if match:
@@ -199,7 +205,7 @@ def collectMinusSentences(amount, directory="../../Cord-19/document_parses/pdf_j
     global amountSentences
     amountSentences = amount
     t1 = time.time()
-    ps = ut.loadPaths(directory, fileType)
+    ps = ut.loadPaths(fileType)
     docList = []
     counter = 1000
     # get 1000 random selected numbers from between 1 and maximum documents in dataset and save it in a list

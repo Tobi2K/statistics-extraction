@@ -570,7 +570,7 @@ def showMatch(matchList, sentence, showValues=False):
     exit_button.pack(side="right")
 
 
-def showDialog(sentence, idn, spanList, patternList):
+def showDialog(sentence, idn, spanList, patternList, fileExtension='.json'):
     global R_MINUS, R_PLUS
     # show dialog window to add rule for given sentence
     fenster = Tk()
@@ -674,7 +674,7 @@ def showDialog(sentence, idn, spanList, patternList):
         else:
             try:
                 re.compile(newRule)
-                (amountSentences, result) = tr.tryRule(newRule)
+                (amountSentences, result) = tr.tryRule(newRule, fileExtension)
                 errorField.config(text="In " + str(amountSentences) + " sentences from random selected documents,\n" \
                                        + str(result) + " matches have been found.")
             except re.error:
@@ -781,13 +781,13 @@ def showDialog(sentence, idn, spanList, patternList):
 
 
 # this will invoke the main GUI dialog and will read out the global skip variable
-def callGui(sentence, idn, matchList):
+def callGui(sentence, idn, matchList, fileExtension='.json'):
     global skip, subRulesList
     subRulesList = []
     skip = False
     patternList = list(map(lambda match: [match.re.pattern], matchList))
     spanList = list(map(lambda match: [match.span(0)[0], match.span(0)[1]], matchList))
-    showDialog(sentence, idn, spanList, patternList)
+    showDialog(sentence, idn, spanList, patternList, fileExtension)
     return skip  # skip cointains boolean value, saying if the current sentence needs to be skipped
 
 
