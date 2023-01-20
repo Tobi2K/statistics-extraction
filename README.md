@@ -18,6 +18,7 @@ Install the requirements by running:
 pip install -r requirements.txt
 ```
 For the use of the interactive GUI for ActiveWrapper learning you need to install `tkinter`. For more information see [here](https://docs.python.org/3/library/tkinter.html).
+Also, the package `pdftotext` is required for parsing PDF files. Follow the installation instructions [here](https://pypi.org/project/pdftotext/) to ensure the correct functionality.
 
 Additionally, you should download the [CORD-19](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge) and [arXiv](https://www.kaggle.com/datasets/Cornell-University/arxiv) datasets and place them in the folders `Cord-19` and `arXiv-papers` respectively.
 For the arXiv papers, we recommend using a crawler, to crawl papers by URL, for example by adapting the 2Like [crawler](https://github.com/Data-Science-2Like/arXive-crawler) we used.
