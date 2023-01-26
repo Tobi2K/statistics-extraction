@@ -22,7 +22,7 @@ def extractStatistic(fileName, targetName, fileExtension='.json'):
     else:
         raise NotImplementedError("Unrecognized fileExtension!")
     # read rules
-    rPlusList = pap.readRules("rPlus-original")
+    rPlusList = pap.readRules("rPlus")
     # create if necessary json file
     if not ".json" in targetName:
         targetName += ".json"

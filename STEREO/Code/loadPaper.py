@@ -150,9 +150,6 @@ def updateRminus(newRule):
     file = open(Path("rMinus.txt"), "a", encoding="utf-8")
     file.write("\n" + newRule)
     file.close()
-    file2 = open(Path("rMinus-PDF.txt"), "a", encoding="utf-8")
-    file2.write("\n" + newRule)
-    file2.close()
 
 
 # append the new rules to the respective subRules dictionary
