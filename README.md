@@ -1,7 +1,8 @@
 # Reducing a Set of Regular Expressions and Analyzing Differences of Domain-specific Statistic Reporting
 
 ---
-This repository provides the code for the paper 'On the Rule-Based Extraction of Statistics Reported in Scientific Papers' published in [NLDB 2023](https://link.springer.com/chapter/10.1007/978-3-031-35320-8_23). An extended arXiv version is available [here](https://arxiv.org/abs/2211.13632)
+This repository provides the code for the paper 'On the Rule-Based Extraction of Statistics Reported in Scientific Papers' published in [NLDB 2023](https://link.springer.com/chapter/10.1007/978-3-031-35320-8_23). An extended arXiv version is available [here](https://arxiv.org/abs/2211.13632).
+
 This paper is an extension of [STEREO](https://arxiv.org/abs/2103.14124) ([Code](https://github.com/Foisunt/STEREO)), which was published in iiWAS2021.
 STEREO is a statistics extraction tool, that uses regular expressions to extract statistics from scientific papers.
 
