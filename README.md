@@ -1,14 +1,14 @@
 # Reducing a Set of Regular Expressions and Analyzing Differences of Domain-specific Statistic Reporting
 
 ---
-This repository provides the code for the paper 'Reducing a Set of Regular Expressions and Analyzing Differences of Domain-specific Statistic Reporting'.
+This repository provides the code for the paper 'On the Rule-Based Extraction of Statistics Reported in Scientific Papers' published in [NLDB 2023](https://link.springer.com/chapter/10.1007/978-3-031-35320-8_23). An extended arXiv version is available [here](https://arxiv.org/abs/2211.13632)
 This paper is an extension of [STEREO](https://arxiv.org/abs/2103.14124) ([Code](https://github.com/Foisunt/STEREO)), which was published in iiWAS2021.
-STEREO is an statistics extraction tool, that uses regular expressions to extract statistics from scientific papers.
+STEREO is a statistics extraction tool, that uses regular expressions to extract statistics from scientific papers.
 
-We provide code for finding a minimal set of regular expressions. In our case we apply this minimal set algorithm to the set of regular expressions used in STEREO to extract statistics.
+We provide code for finding a minimal set of regular expressions. In our case, we apply this minimal set algorithm to the set of regular expressions used in STEREO to extract statistics.
 STEREO was previously trained on papers from the life sciences and medical domain.
 We extend STEREO to a new domain, namely Human-Computer-Interaction.
-Here, we learn new rules and expand STEREO to be able to use PDF and LaTeX file as an input, instead of only JSON files.
+Here, we learn new rules and expand STEREO to be able to use PDF and LaTeX files as input, instead of only JSON files.
 
 
 ## Getting Started
