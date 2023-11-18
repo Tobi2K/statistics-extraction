@@ -69,7 +69,7 @@ def applyRMinus(ruleList, sentence):
 
 
 # extracts match from sentence with the rules specified at row number idn in rPlus file
-def extractEntity(match, sentence, idn):
+def extractEntity(match, sentence, idn, path=''):
     # get the found match
     dic = match.groupdict()
     # determine the statistic type of the record
@@ -78,7 +78,7 @@ def extractEntity(match, sentence, idn):
     endOfMatch = match.span(0)[1]
     subSentence = sentence[match.span(0)[0]:endOfMatch]
     record = extractNumbers(key, subSentence, idn)
-    return pap.ExtractedData(None, sentence[0:endOfMatch], key, record, None, None)
+    return pap.ExtractedData(None, sentence[0:endOfMatch], key, record, None, None, path)
 
 
 def extractNumbers(statType, subSentence, idn):
@@ -112,7 +112,7 @@ def extractFromDocument(rule, documentId):
         if match:
             # extract
             (matchEntity, ruleIndex) = applyRPlus(rPlusList, s)
-            entity = extractEntity(matchEntity, s, ruleIndex)
+            entity = extractEntity(matchEntity, s, ruleIndex, path)
             if aw.checkRecord(entity):
                 extracted.append(entity)
                 pap.updateExtracted(entity)

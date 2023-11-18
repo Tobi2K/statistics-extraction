@@ -36,12 +36,12 @@ def activeWrapperAllPaths(directory, fileExtension):
             raise NotImplementedError("Unrecognized fileExtension!")
         print(path)
         # '$^' #Initial Rule matches nothing
-        activeWrapperLoop(sentences, rPlusList, rMinusList, toSkip, fileExtension)
+        activeWrapperLoop(sentences, rPlusList, rMinusList, toSkip, fileExtension, path=path)
         # finished with that document -> increment skip counter for documents
         pap.incrementSkip(True)
 
 
-def activeWrapperLoop(sentences, rPlusList, rMinusList, toSkip, fileExtension='.json'):
+def activeWrapperLoop(sentences, rPlusList, rMinusList, toSkip, fileExtension='.json', path=''):
     # while senteces not empty
     foundEntitys = []
     extracted = []
@@ -95,7 +95,7 @@ def activeWrapperLoop(sentences, rPlusList, rMinusList, toSkip, fileExtension='.
                 endOfMatch = match.span(0)[1]
                 startOfMatch = match.span(0)[0]
                 (matchEntity, ruleIndex) = ut.applyRPlus(rPlusList, sentence)
-                entity = ut.extractEntity(matchEntity, sentence, ruleIndex)
+                entity = ut.extractEntity(matchEntity, sentence, ruleIndex, path)
                 while not checkRecord(entity):
                     # call GUI- fixSubrules
                     # actual used rule: rPlusList[ruleIndex]
@@ -104,7 +104,7 @@ def activeWrapperLoop(sentences, rPlusList, rMinusList, toSkip, fileExtension='.
                                                ruleIndex)
                     if not skip:
                         # skip not used -> extract with new subrule(s)
-                        entity = ut.extractEntity(matchEntity, sentence, ruleIndex)
+                        entity = ut.extractEntity(matchEntity, sentence, ruleIndex, path)
                     else:
                         # break out of fixSubRules routine
                         break

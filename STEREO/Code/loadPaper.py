@@ -13,13 +13,14 @@ from pylatexenc.latexwalker import LatexWalker, LatexEnvironmentNode, LatexMacro
 
 
 class ExtractedData:
-    def __init__(self, position, sentence, statisticType, record, aspect, condition):
+    def __init__(self, position, sentence, statisticType, record, aspect, condition, filename):
         self.position = position  # information position (which sentence or position in sentence)
         self.sentence = sentence  # complete sentence where statisic has been found
         self.statisticType = statisticType  # e.g. t-Statisitc, regression, etc. #TODO als enum?
         self.record = record  # tupel of extracted values, e.g.(degOfFreedom,t-Statsitics,pvalue)
         self.aspect = aspect  # information about what the statisitcs are about
         self.condition = condition
+        self.filename = filename
 
 
 # Load a File and return whole File as String
@@ -246,11 +247,15 @@ def loadExtracted(filename="extracted.json"):
             # added a new attribute "condition" to the ExtractedData datatype -> check here to still support old version
             result = list(
                 map(lambda x: ExtractedData(x.position, x.sentence, x.statisticType, supExtracted(x.record), x.aspect,
-                                            None), namedTupleList))
-        else:
+                                            None, None), namedTupleList))
+        elif len(namedTupleList[0]) <= 6:
             result = list(
                 map(lambda x: ExtractedData(x.position, x.sentence, x.statisticType, supExtracted(x.record), x.aspect,
-                                            x.condition), namedTupleList))
+                                            x.condition, None), namedTupleList))
+        else:  # added another new attribute "filename" to the ExtractedData --> support both other versions
+            result = list(
+                map(lambda x: ExtractedData(x.position, x.sentence, x.statisticType, supExtracted(x.record), x.aspect,
+                                            x.condition, x.filename), namedTupleList))
         return result
 
 

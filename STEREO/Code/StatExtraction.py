@@ -33,7 +33,7 @@ def extractStatistic(fileName, targetName, fileExtension='.json'):
         match, index = ut.applyRPlus(rPlusList, s)
         while match is not None:
             # if a match is found -> save it in a .json file
-            entity = ut.extractEntity(match, s, index)
+            entity = ut.extractEntity(match, s, index, fileName)
             pap.updateExtracted(entity, targetName)
             s = s[0: match.start()] + " RPLUS MATCH " + s[match.end():len(s)]
             match, index = ut.applyRPlus(rPlusList, s)
